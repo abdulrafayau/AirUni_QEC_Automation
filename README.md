@@ -1,4 +1,4 @@
-Here is a clear, step-by-step README you can use to understand and run this script in your browser's developer console.
+AIR UNIVERSITY QEC FORM AUTOMATION
 
 ---
 
