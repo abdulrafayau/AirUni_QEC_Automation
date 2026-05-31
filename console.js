@@ -1,0 +1,1 @@
+var a = document.getElementsByTagName("input"); for (let i = 0; i < a.length; i++) { a[i].checked = false; }; var a = document.getElementsByClassName("one"); for (let i = 0; i < a.length; i++) { if(a[i].getElementsByTagName("input")[0].value == "A"){a[i].getElementsByTagName("input")[0].checked = true;} };
